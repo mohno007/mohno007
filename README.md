@@ -1,6 +1,4 @@
-### Hi there 👋
-
-####  🏭 Works
+###  🏭 Works
 - [typetalk-emoreact](https://github.com/mohno007/typetalk-emoreact)
 - [typetalk.sh](https://github.com/mohno007/typetalk.sh)
 - [Java Search : Search Java SE & JDK API Documents from browser address bar](https://gist.github.com/mohno007/50a234f3b401e386583274f47f4e12aa)
