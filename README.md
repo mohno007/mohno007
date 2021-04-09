@@ -1,9 +1,14 @@
 ###  🏭 Works
-- [typetalk-emoreact](https://github.com/mohno007/typetalk-emoreact)
-- [typetalk.sh](https://github.com/mohno007/typetalk.sh)
-- [Java Search : Search Java SE & JDK API Documents from browser address bar](https://gist.github.com/mohno007/50a234f3b401e386583274f47f4e12aa)
-- [Google Meet Push-to-talk](https://gist.github.com/mohno007/d4947babdfad47b2fd4cd5e68e798cd1)
-- [Google Meet Audio Control](https://gist.github.com/mohno007/49611fbf8f4675562e53cda2783cb0fa)
+- [typetalk-emoreact](https://github.com/mohno007/typetalk-emoreact)  
+    - Typetalkで絵文字リアクションが使えるようにするブラウザ拡張機能です
+- [typetalk.sh](https://github.com/mohno007/typetalk.sh)  
+    - TypetalkをCLIから利用するためのスクリプトです
+- [Java Search : Search Java SE & JDK API Documents from browser address bar](https://gist.github.com/mohno007/50a234f3b401e386583274f47f4e12aa)  
+    - JavaのAPIを検索するためのブラウザ拡張機能です
+- [Google Meet Push-to-talk](https://gist.github.com/mohno007/d4947babdfad47b2fd4cd5e68e798cd1)  
+    - Google MeetにPush-to-talk機能を追加するブラウザ拡張機能です
+- [Google Meet Audio Control](https://gist.github.com/mohno007/49611fbf8f4675562e53cda2783cb0fa)  
+    - Google Meetに音量の調節機能を追加するブラウザ拡張機能です
 
 <!--
 **mohno007/mohno007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
