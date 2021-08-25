@@ -1,15 +1,19 @@
 ###  🏭 Works
+
+### Browser Extensions
 - [typetalk-emoreact](https://github.com/mohno007/typetalk-emoreact)  
     - Typetalkで絵文字リアクションを使えるようにするブラウザ拡張機能
-- [typetalk.sh](https://github.com/mohno007/typetalk.sh)  
-    - Typetalkに投稿できるシェルスクリプト
 - [Java Search](https://gist.github.com/mohno007/50a234f3b401e386583274f47f4e12aa)
     - Search Java SE & JDK API Documents from browser address bar
     - JavaのAPIを検索するためのブラウザ拡張機能
 - [Google Meet Push-to-talk](https://gist.github.com/mohno007/d4947babdfad47b2fd4cd5e68e798cd1)  
     - Google MeetにPush-to-talk機能を追加するブラウザ拡張機能
 - [Google Meet Audio Control](https://gist.github.com/mohno007/49611fbf8f4675562e53cda2783cb0fa)  
-    - Google Meetに音量の調節機能を追加するブラウザ拡張機能
+    - Google Meetに音量調節の機能を追加するブラウザ拡張機能
+
+### Script
+- [typetalk.sh](https://github.com/mohno007/typetalk.sh)  
+    - Typetalkに投稿できるシェルスクリプト
 
 <!--
 **mohno007/mohno007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
