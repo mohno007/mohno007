@@ -11,7 +11,7 @@
 - [Google Meet Audio Control](https://gist.github.com/mohno007/49611fbf8f4675562e53cda2783cb0fa)  
     - Google Meetに音量調節の機能を追加するブラウザ拡張機能
 
-### 🛠️ Script
+### 🛠️ Shell Utilities
 - [typetalk.sh](https://github.com/mohno007/typetalk.sh)  
     - Typetalkに投稿できるシェルスクリプト
 
