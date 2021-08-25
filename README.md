@@ -1,6 +1,6 @@
 ###  🏭 Works
 
-### Browser Extensions
+### 🕸️ Browser Extensions
 - [typetalk-emoreact](https://github.com/mohno007/typetalk-emoreact)  
     - Typetalkで絵文字リアクションを使えるようにするブラウザ拡張機能
 - [Java Search](https://gist.github.com/mohno007/50a234f3b401e386583274f47f4e12aa)
@@ -11,7 +11,7 @@
 - [Google Meet Audio Control](https://gist.github.com/mohno007/49611fbf8f4675562e53cda2783cb0fa)  
     - Google Meetに音量調節の機能を追加するブラウザ拡張機能
 
-### Script
+### 🛠️ Script
 - [typetalk.sh](https://github.com/mohno007/typetalk.sh)  
     - Typetalkに投稿できるシェルスクリプト
 
