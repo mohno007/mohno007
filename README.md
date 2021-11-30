@@ -1,23 +1,31 @@
 ###  🏭 Works
 
 ### 🕸️ Browser Extensions
+#### Typetalk
 - [typetalk-emoreact](https://github.com/mohno007/typetalk-emoreact)  
     - Enable user to do reaction with Emoji
     - Typetalkで絵文字リアクションを使えるようにするブラウザ拡張機能
-- [Java Search](https://gist.github.com/mohno007/50a234f3b401e386583274f47f4e12aa)
-    - Search Java SE & JDK API Documents from browser address bar
-    - JavaのAPIを検索するためのブラウザ拡張機能
+
+#### Google Meet
 - [Google Meet Push-to-talk](https://gist.github.com/mohno007/d4947babdfad47b2fd4cd5e68e798cd1)  
     - Add Push-to-talk feature to Google Meet
     - Google MeetにPush-to-talk機能を追加するブラウザ拡張機能
 - [Google Meet Audio Control](https://gist.github.com/mohno007/49611fbf8f4675562e53cda2783cb0fa)  
     - Add volume control to Google Meet
     - Google Meetに音量調節の機能を追加するブラウザ拡張機能
+
+#### Slack
 - [Slack Permalink Auto Redirect](https://gist.github.com/mohno007/2622041668bbf4785b03a9072e59414a)
     - Automatically open the Slack permalink in the browser. Skip 'Open in the App' page.
     - 自動的にSlackのパーマリンクをブラウザで開くブラウザ拡張機能
 
+#### Java API Documentation
+- [Java Search](https://gist.github.com/mohno007/50a234f3b401e386583274f47f4e12aa)
+    - Search Java SE & JDK API Documents from browser address bar
+    - JavaのAPIを検索するためのブラウザ拡張機能
+
 ### 🛠️ Shell Utilities
+#### Typetalk
 - [typetalk.sh](https://github.com/mohno007/typetalk.sh)  
     - Typetalkに投稿できるシェルスクリプト
 
