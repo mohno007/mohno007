@@ -11,10 +11,6 @@
     - Search Java SE & JDK API Documents from browser address bar
     - JavaのAPIを検索するためのブラウザ拡張機能
 
-### 🛠️ Shell Utilities
-- [typetalk.sh](https://github.com/mohno007/typetalk.sh)  
-    - Typetalkに投稿できるシェルスクリプト
-
 <!--
 **mohno007/mohno007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
